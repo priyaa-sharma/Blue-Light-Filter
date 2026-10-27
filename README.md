@@ -2,6 +2,13 @@
 
 A Windows desktop app for warming and dimming your display. The interface uses a hydrangea-inspired pink and purple palette.
 
+## WORKING 
+
+## It does not show the blue-filtered screen in screen-sharing. You can take the idea of the GUI and working from the video and clone the repo if you want to test the actual program.
+
+https://github.com/user-attachments/assets/c25817fa-7900-445f-b4a1-52a97e163245
+
+
 ## Features
 
 - Adjust colour temperature from 1900 K to 6500 K.
